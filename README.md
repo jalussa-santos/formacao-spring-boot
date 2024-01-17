@@ -11,7 +11,7 @@ Veja mais informações das lições aprendidas na [Wiki](https://github.com/jal
 
 >### API Rest
 
-* [Configurações Iniciais e tecnologias]()
+* [Configurações Iniciais e tecnologias](https://github.com/jalussa-santos/formacao-spring-boot/issues/1)
 
 
 
