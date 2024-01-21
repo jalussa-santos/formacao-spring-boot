@@ -12,7 +12,7 @@ Veja mais informações das lições aprendidas na [Wiki](https://github.com/jal
 >### API Rest
 
 * [Configurações Iniciais e tecnologias](https://github.com/jalussa-santos/formacao-spring-boot/issues/1)
-
+* [Lindando com CORS](https://github.com/jalussa-santos/formacao-spring-boot/issues/2)
 
 
 >### Tecnologias:
