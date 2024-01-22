@@ -13,7 +13,7 @@ Veja mais informações das lições aprendidas na [Wiki](https://github.com/jal
 
 * [Configurações Iniciais e tecnologias](https://github.com/jalussa-santos/formacao-spring-boot/issues/1)
 * [Lindando com CORS](https://github.com/jalussa-santos/formacao-spring-boot/issues/2)
-
+* [Construindo DTOs com funcções Java](https://github.com/jalussa-santos/formacao-spring-boot/issues/3)
 
 >### Tecnologias:
 
