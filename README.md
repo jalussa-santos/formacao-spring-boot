@@ -15,12 +15,18 @@ Veja mais informações das lições aprendidas na [Wiki](https://github.com/jal
 * [Lindando com CORS](https://github.com/jalussa-santos/formacao-spring-boot/issues/2)
 * [Construindo DTOs com funções Java](https://github.com/jalussa-santos/formacao-spring-boot/issues/3)
 * [POST - Enviando dados para a API](https://github.com/jalussa-santos/formacao-spring-boot/issues/6)
+* [Configuração banco de dados](https://github.com/jalussa-santos/formacao-spring-boot/issues/8)
 
 >### Tecnologias:
 
 * Java 17
 * Spring Boot 3.3.0
+  * Spring Boot DevTools
+  * Spring Boot Web
+  * Spring Boot Test
+  * Spring Boot Validation
+  * Spring Boot Data JPA
 * Gradle
-* Spring Boot DevTools
 * Lombok
-* Spring Web
+* MySQL Driver
+* Flyway Migration
