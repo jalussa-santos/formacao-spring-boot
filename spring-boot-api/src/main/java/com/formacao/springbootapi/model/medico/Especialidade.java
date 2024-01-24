@@ -1,4 +1,4 @@
-package com.formacao.springbootapi.controller;
+package com.formacao.springbootapi.model.medico;
 
 public enum Especialidade {
 
