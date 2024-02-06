@@ -1,11 +1,14 @@
 package com.formacao.springbootapi.controller;
 
 import com.formacao.springbootapi.model.medico.CadastroMedicoDto;
+import com.formacao.springbootapi.model.medico.DadosListagemMedico;
 import com.formacao.springbootapi.model.medico.Medico;
 import com.formacao.springbootapi.model.medico.MedicoRepository;
 import jakarta.validation.Valid;
+import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.transaction.annotation.Transactional;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -22,5 +25,13 @@ public class MedicoController {
   @Transactional
   public void cadastrar(@RequestBody @Valid CadastroMedicoDto dados) {
     repository.save(new Medico(dados));
+  }
+
+  @GetMapping
+  public List<DadosListagemMedico> listar() {
+    return repository.findAll()
+        .stream()
+        .map(DadosListagemMedico::new)
+        .toList();
   }
 }
