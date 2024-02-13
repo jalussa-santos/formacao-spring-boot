@@ -17,6 +17,7 @@ Veja mais informações das lições aprendidas na [Wiki](https://github.com/jal
 * [POST - Enviando dados para a API](https://github.com/jalussa-santos/formacao-spring-boot/issues/6)
 * [Configuração banco de dados](https://github.com/jalussa-santos/formacao-spring-boot/issues/8)
 * [Armanezando dados com Spring Data JPA](https://github.com/jalussa-santos/formacao-spring-boot/issues/11)
+* [Consultando dados com Spring Data JPA](https://github.com/jalussa-santos/formacao-spring-boot/issues/15)
 
 >### Tecnologias:
 
