@@ -19,6 +19,7 @@ Veja mais informações das lições aprendidas na [Wiki](https://github.com/jal
 * [Armanezando dados com Spring Data JPA](https://github.com/jalussa-santos/formacao-spring-boot/issues/11)
 * [Consultando dados com Spring Data JPA](https://github.com/jalussa-santos/formacao-spring-boot/issues/15)
 * [Atualizando dados com Spring Data JPA](https://github.com/jalussa-santos/formacao-spring-boot/issues/21)
+* [Deletando dados com Spring Data JPA](https://github.com/jalussa-santos/formacao-spring-boot/issues/23)
 
 >### Tecnologias:
 
