@@ -4,7 +4,7 @@ Veja mais informações das lições aprendidas na [Wiki](https://github.com/jal
 
 ## Conteúdo
 
-* [API Rest]()
+* [API Rest](https://github.com/jalussa-santos/formacao-spring-boot#api-rest)
 * [Boas práticas]()
 * [Desenvolvimento avançado]()
 
@@ -20,6 +20,10 @@ Veja mais informações das lições aprendidas na [Wiki](https://github.com/jal
 * [Consultando dados com Spring Data JPA](https://github.com/jalussa-santos/formacao-spring-boot/issues/15)
 * [Atualizando dados com Spring Data JPA](https://github.com/jalussa-santos/formacao-spring-boot/issues/21)
 * [Deletando dados com Spring Data JPA](https://github.com/jalussa-santos/formacao-spring-boot/issues/23)
+
+>### Boas práticas
+* [Padronizando retornos da API](https://github.com/jalussa-santos/formacao-spring-boot/issues/26)
+
 
 >### Tecnologias:
 
