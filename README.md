@@ -5,7 +5,7 @@ Veja mais informações das lições aprendidas na [Wiki](https://github.com/jal
 ## Conteúdo
 
 * [API Rest](https://github.com/jalussa-santos/formacao-spring-boot#api-rest)
-* [Boas práticas]()
+* [Boas práticas](https://github.com/jalussa-santos/formacao-spring-boot#boas-pr%C3%A1ticas)
 * [Desenvolvimento avançado]()
 
 
@@ -23,7 +23,7 @@ Veja mais informações das lições aprendidas na [Wiki](https://github.com/jal
 
 >### Boas práticas
 * [Padronizando retornos da API](https://github.com/jalussa-santos/formacao-spring-boot/issues/26)
-
+* [Lidando com erros](https://github.com/jalussa-santos/formacao-spring-boot/issues/28)
 
 >### Tecnologias:
 
